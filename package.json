@@ -1,0 +1,21 @@
+{
+  "name": "bubblegum-dark",
+  "displayName": "Bubblegum Dark",
+  "description": "A vscode theme that is loosely based off of Connie Hilarides's Bubblegum",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bubblegum Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bubblegum Dark-color-theme.json"
+      }
+    ]
+  }
+}
