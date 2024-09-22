@@ -3,6 +3,11 @@
   "displayName": "Bubblegum Dark",
   "description": "A vscode theme that is loosely based off of Connie Hilarides's Bubblegum",
   "version": "0.0.1",
+  "publisher": "Densentrated",
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/Densentrated/Bubblegum-Dark"},
+
   "engines": {
     "vscode": "^1.93.0"
   },
